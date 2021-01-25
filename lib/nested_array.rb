@@ -24,7 +24,7 @@ def assembled_matrix
   
   produce_storage_room =[CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort]
 end
-p assembled_matrix
+
 def sorted_matrix
   # Using Array literal syntax only, build another nested array that 
   # uses the arrays of conventional and organic produce as before.
